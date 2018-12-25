@@ -23,7 +23,9 @@ dangling blob ca8e65ad0ac3b884f4f5f8c8b0aecb576a9c42e0
 this problem only can be fix by rebase ,but the gitobject need change
 so I had to fork myself branch to fix this problem.
 
-the command is:
+the github address: https://github.com/foobarren/freeswitch
+
+the fork command is:
 ```
 ## build master_new
 # found error gitobject
